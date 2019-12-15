@@ -1,0 +1,13 @@
+/* Write your custom CSS here */
+
+.statusRed {
+
+    color: #b8021b;
+}
+.statusBlue1 {
+
+    color: blue;
+}
+.newTasks{
+   background: rgba(5, 5, 10, 0.08);
+}
